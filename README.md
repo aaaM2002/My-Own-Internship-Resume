@@ -1,1 +1,15 @@
-# My-Own-Internship-Resume
+# 个人简历展示
+
+本仓库已清空原有内容，并在主页集中展示两张简历图片，方便在线预览与查看。
+
+## 图片 1：个人简历（完整版）
+
+这张图片展示了完整的个人简历信息，包括教育背景、实习经历、项目经历与技术栈。
+
+![个人简历-完整版](https://github.com/user-attachments/assets/7bd60678-1f37-41a4-87c3-5f7b0e709e4e)
+
+## 图片 2：补充简历页
+
+这张图片用于补充展示另一页内容，与上图共同构成完整材料。
+
+![个人简历-补充页](https://github.com/user-attachments/assets/ba49bf6c-3471-40fb-bf74-575b91b85b5c)
